@@ -1,0 +1,59 @@
+.redesociais__box__principal {
+    background: #000000;
+    color: #FFFFFF;
+    
+}
+
+.redesociais__box__principal>h2 {
+    font-size: 1.5rem;
+}
+
+.redesociais__box__secundario {
+    gap: 32px;
+}
+
+.redesociais__box__basic {
+    width: 304px;
+    height: 79px ;
+    gap: 24px;
+}
+
+.redesociais__box__basic__texto {
+    gap: 16px;
+    max-width: 200px;
+}
+
+.redesociais__box__basic__texto__01 {
+    font-size: 1rem;
+    color: #DAFF01;
+}
+
+.redesociais__box__basic__texto__02 {
+    font-size: 0.8125rem;
+    max-width: 200px;
+}
+
+.newsletter__box01__input__btn {
+    background-color: #9353FF;
+    color: #FFFFFF;
+}
+
+.newsletter__box01__titulo {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.footer {
+   background-color: #000000;
+   color: #FFFFFF;
+}
+@media (min-width:767px){
+    .redesociais__box__principal>h2 {
+        font-size: 2rem;
+    }
+
+    .newsletter__box01__titulo {
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+}
