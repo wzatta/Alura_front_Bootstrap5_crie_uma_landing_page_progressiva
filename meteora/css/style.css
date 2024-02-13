@@ -1,3 +1,11 @@
+.posicao{
+    top: 40%;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
 .produtos__btn__ver__mais {
     background-color: #9353FF;
 }
@@ -53,6 +61,11 @@
    color: #FFFFFF;
 }
 @media (min-width:767px){
+
+    .posicao{
+        top:60%;
+    }
+
     .redesociais__box__principal>h2 {
         font-size: 2rem;
     }
